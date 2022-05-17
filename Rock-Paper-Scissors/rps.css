@@ -1,0 +1,77 @@
+html {
+    background: chocolate;
+}
+
+#heading {
+    text-align: center;
+    font-size: 50px;
+}
+
+#btn1 {
+    background: chocolate;
+    font-size: 100px;
+    margin-top: 240px;
+    margin-left: 150px;
+    margin-right: 50px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+#btn2 {
+    background: chocolate;
+    font-size: 100px;
+    margin-top: 240px;
+    margin-left: 50px;
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    height: 180px;
+    width: 200px;
+}
+
+.hidden {
+    display: none;
+}
+
+#play-btn {
+    margin-left: 530px;
+    margin-top: 75px;
+    background: chocolate;
+    border: none;
+}
+
+#play {
+    width: 150px;
+    height: 75px;
+    cursor: pointer;
+}
+
+#enemychoice {
+    margin-left: 240px;
+}
+
+#play-again {
+    border: none;
+    cursor: pointer;
+    margin-left: 450px;
+    margin-top: 75px;
+    background: chocolate;
+}
+
+#playagain {
+    width: 300px;
+    height: 75px;
+}
+
+#outcome {
+    text-align: center;
+    font-size: 75px;
+    margin-bottom: -100px;
+}
+
+.invisible {
+    visibility: hidden;
+}
